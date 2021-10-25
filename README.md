@@ -35,8 +35,11 @@
 
 * [nRF9160 Feather][nrf9160-feather]
 * [CadQuery][CadQuery]
+* [DepthAI][depthai] and [OAK-D-Lite OpenCV AI kit][oak-d-lite]
 
 </details>
 
 [nrf9160-feather]: https://docs.jaredwolff.com/nrf9160-introduction.html
 [CadQuery]: https://cadquery.readthedocs.io/
+[depthai]: https://docs.luxonis.com
+[oak-d-lite]: https://www.kickstarter.com/projects/opencv/opencv-ai-kit-oak-depth-camera-4k-cv-edge-object-detection
