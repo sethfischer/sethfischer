@@ -29,3 +29,12 @@
         <img src="assets/badges/ide-vscode.svg" alt="IDE: Visual Studio Code" />
     </dd>
 </dl>
+
+<details>
+<summary>Currently experimenting with…</summary>
+
+* [nRF9160 Feather][nrf9160-feather]
+
+</details>
+
+[nrf9160-feather]: https://docs.jaredwolff.com/nrf9160-getting-started.html
