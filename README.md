@@ -34,7 +34,10 @@
 <summary>Currently experimenting with…</summary>
 
 * [nRF9160 Feather][nrf9160-feather]
+* [DepthAI][depthai] and [OAK-D-Lite OpenCV AI kit][oak-d-lite]
 
 </details>
 
 [nrf9160-feather]: https://docs.jaredwolff.com/nrf9160-introduction.html
+[depthai]: https://docs.luxonis.com
+[oak-d-lite]: https://www.kickstarter.com/projects/opencv/opencv-ai-kit-oak-depth-camera-4k-cv-edge-object-detection
