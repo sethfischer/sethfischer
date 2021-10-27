@@ -1,6 +1,6 @@
-<div align="center">
-    <a href="https://seth.fischer.nz/">seth.fischer.nz</a>&emsp;•&emsp;<a href="https://seth.fischer.nz/contact.html">contact</a>
-</div>
+<p align="center">
+    <a href="https://seth.fischer.nz/"><b>seth.fischer.nz</b></a>&emsp;•&emsp;<a href="https://seth.fischer.nz/contact.html"><b>contact</b></a>
+</p>
 
 <dl>
     <dt>Languages</dt>
