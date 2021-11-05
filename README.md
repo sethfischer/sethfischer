@@ -37,4 +37,4 @@
 
 </details>
 
-[nrf9160-feather]: https://docs.jaredwolff.com/nrf9160-getting-started.html
+[nrf9160-feather]: https://docs.jaredwolff.com/nrf9160-introduction.html
