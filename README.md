@@ -34,7 +34,9 @@
 <summary>Currently experimenting with…</summary>
 
 * [nRF9160 Feather][nrf9160-feather]
+* [CadQuery][CadQuery]
 
 </details>
 
 [nrf9160-feather]: https://docs.jaredwolff.com/nrf9160-introduction.html
+[CadQuery]: https://cadquery.readthedocs.io/
